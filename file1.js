@@ -1,3 +1,6 @@
+Hello world!
 ignore
+blue sky
 sky
-sky
+latest doings
+new doings
